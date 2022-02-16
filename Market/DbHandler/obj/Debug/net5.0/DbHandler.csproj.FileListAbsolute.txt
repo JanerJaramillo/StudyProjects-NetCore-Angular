@@ -1,0 +1,12 @@
+C:\StudyProjects\Market\DbHandler\bin\Debug\net5.0\DbHandler.deps.json
+C:\StudyProjects\Market\DbHandler\bin\Debug\net5.0\DbHandler.dll
+C:\StudyProjects\Market\DbHandler\bin\Debug\net5.0\ref\DbHandler.dll
+C:\StudyProjects\Market\DbHandler\bin\Debug\net5.0\DbHandler.pdb
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.csproj.AssemblyReference.cache
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.AssemblyInfoInputs.cache
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.AssemblyInfo.cs
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.csproj.CoreCompileInputs.cache
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.dll
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\ref\DbHandler.dll
+C:\StudyProjects\Market\DbHandler\obj\Debug\net5.0\DbHandler.pdb

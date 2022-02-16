@@ -1,0 +1,49 @@
+<section class="section">
+    <div class="columns">
+        <div class="column">
+            <button (click)="openModal()" class="button is-primary">Nuevo Producto</button>
+        </div>
+    </div>
+    <div class="columns">
+        <div class="column">
+            <table class="table is-fullwidth is-hoverable is-hidden-mobile">
+                <thead>
+                    <th>Nombre</th>
+                    <th>Descripcion</th>
+                    <th>Stock</th>
+                    <th>Precio</th>
+                    <th>Marca</th>
+                    <th>Categoria</th>
+                    <th style="width: 1%;white-space: nowrap;">Opciones</th>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let product of products">
+                        <td>{{ product.nombre }}</td>
+                        <td>{{ product.descripcion }}</td>
+                        <td>{{ product.stock }}</td>
+                        <td>{{ product.precio }}</td>
+                        <td>{{ product.marca }}</td>
+                        <td>{{ product.categoria }}</td>
+                        <td>
+                            <div class="columns">
+                                <div class="column is-5">
+                                    <button (click)="openModalForUpdate(product.id)" class="button is-light"><i
+                                            class="fa fa-edit"></i></button>
+                                </div>
+                                <div class="column">
+                                    <button (click)="DeleteProduct(product.id)" class="button is-light"><i
+                                            class="fa fa-trash"></i></button>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+<app-producto-modal *ngIf="viewModal" [viewModal]="viewModal" [productoId]="productoId"
+    (closeInsertModal)="processCloseInsertModal($event)" (newProducto)="processNewProducto($event)"
+    (newListProducto)="processnewListProducto($event)">
+</app-producto-modal>

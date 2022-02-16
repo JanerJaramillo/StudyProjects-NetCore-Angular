@@ -1,0 +1,17 @@
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\DAO.deps.json
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\DAO.dll
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\ref\DAO.dll
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\DAO.pdb
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\DbHandler.dll
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\Model.dll
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\DbHandler.pdb
+C:\StudyProjects\Market\DAO\bin\Debug\net5.0\Model.pdb
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.csproj.AssemblyReference.cache
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.AssemblyInfoInputs.cache
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.AssemblyInfo.cs
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.csproj.CoreCompileInputs.cache
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.csproj.CopyComplete
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.dll
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\ref\DAO.dll
+C:\StudyProjects\Market\DAO\obj\Debug\net5.0\DAO.pdb
